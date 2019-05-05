@@ -24,6 +24,7 @@ LitElement follows the [Web Components standards](https://github.com/w3c/webcomp
 - [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/) - 2019-04
 - [Reasons Web Components are perfect for a big company.](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5) - 2019-03
 - [Type-Safe Web Components with JSDoc](https://dev.to/dakmor/type-safe-web-components-with-jsdoc-4icf) - 2019-03
+- [Decorator Pattern Plus](https://medium.com/@westbrook/decorator-pattern-plus-816eefc89824) - 2018-12
 
 ## PWA
 
@@ -32,3 +33,6 @@ LitElement follows the [Web Components standards](https://github.com/w3c/webcomp
 ## Starter Kits
 
 - [create-evergreen-app](https://github.com/ProjectEvergreen/create-evergreen-app)
+
+## Helpers
+
