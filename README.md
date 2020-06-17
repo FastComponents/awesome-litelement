@@ -36,3 +36,7 @@ LitElement follows the [Web Components standards](https://github.com/w3c/webcomp
 
 ## Helpers
 
+## Resources
+
+- [`lit-element` topic on GitHub](https://github.com/topics/lit-element)
+- [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
