@@ -17,7 +17,7 @@ LitElement follows the [Web Components standards](https://github.com/w3c/webcomp
 - [Any guide on transitions?](https://github.com/Polymer/lit-element/issues/653)
 
 ## Articles
-
+- [Generate a Project Quickly with Open WC's Interactive CLI](https://toddpress.hashnode.dev/generate-a-litelement-project-faster-than-sunlight)
 - [LitElement: Two-way data binding](https://medium.com/collaborne-engineering/litelement-two-way-data-binding-48aec4692f7e) - 2019-04
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4) - 2019-04
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73) - 2019-04
